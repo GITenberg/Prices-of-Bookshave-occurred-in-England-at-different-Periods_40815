@@ -1,0 +1,34 @@
+_repo: Prices-of-Bookshave-occurred-in-England-at-different-Periods_40815
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40815-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wheatley, Henry B. (Henry Benjamin)
+    alias: Wheatley, H. B. (Henry Benjamin)
+    birthdate: 1838
+    deathdate: 1917
+    gutenberg_agent_id: '205'
+    url: http://www.gutenberg.org/2009/agents/205
+    wikipedia: http://en.wikipedia.org/wiki/Henry_B._Wheatley
+description: By 1898, books had become more affordable than they had been in the past,
+  leading to greater literacy and a barometer of society's cultural and intellectual
+  status. Using price points to trace the history of publishing and reading, the author
+  considers manuscript prices, booksellers, auctions throughout the centuries, and
+  prices of the earliest printed books.
+gutenberg_issued: '2012-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40815'
+  lccn: '02006056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Books -- Prices -- History'
+- !lcc 'Z'
+title: "Prices of Books\r\nAn Inquiry into the Changes in the Price of Books which\
+  \ have occurred in England at different Periods"
+url: http://www.gutenberg.org/ebooks/40815
